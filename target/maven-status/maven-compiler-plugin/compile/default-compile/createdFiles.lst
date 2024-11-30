@@ -1,0 +1,3 @@
+com\example\kafkaconsumerdemo\service\KafkaMessageListener.class
+com\example\kafkaconsumerdemo\KafkaConsumerDemoApplication.class
+com\example\kafkaconsumerdemo\config\KafkaConsumerConfig.class
